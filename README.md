@@ -1,4 +1,4 @@
-# standoff2-archive
+# Standoff 2 Build Archive
 An archive of almost all builds of Standoff 2.
 
 ## How to install Standoff 2
