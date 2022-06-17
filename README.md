@@ -118,14 +118,11 @@ Use [Sideloadly](https://sideloadly.io/) to sideload the .ipa file. You have to 
 | 0.13.2                	| 19-04-18       	 |		https://bit.ly/so2ipa-0132                    |
 | 0.13.4                	| 19-04-18       	 |		https://bit.ly/so2ipa-0134                    |
 | 0.13.6                	| 19-04-18       	 |		N/A                    |
-| 0.13.6p2              	| 19-04-18       	 |		N/A                    |
-| 0.13.6p3              	| 19-04-18       	 |		N/A                    |
 | 0.13.7                 	| 19-04-18       	 |		https://bit.ly/so2ipa-0137                    |
 | 0.13.9                	| 19-04-18       	 |		https://bit.ly/so2ipa-0139                    |
 | 0.13.10               	| 19-04-18       	 |		N/A                    |
 | 0.14.1                	| 19-04-18       	 |		https://bit.ly/so2ipa-0141                    |
 | 0.14.2                	| 19-04-18       	 |		https://bit.ly/so2ipa-0142                    |
-| 0.14.2-p2              	| 19-04-18       	 |		N/A                    |
 | 0.14.4                	| 19-04-18       	 |		https://bit.ly/so2ipa-0144                    |
 | 0.14.5                	| 19-04-18       	 |		https://bit.ly/so2ipa-0145                    |
 | 0.15.0                	| 19-04-18       	 |		https://bit.ly/so2ipa-0150                    |
