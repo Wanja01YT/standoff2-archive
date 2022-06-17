@@ -107,7 +107,6 @@ Use [Sideloadly](https://sideloadly.io/) to sideload the .ipa file. You have to 
 | 0.10.12                	| 19-04-19       	 |		https://bit.ly/so2ipa-01012                    |
 | 0.11.0                 	| 19-04-19       	 |		https://bit.ly/so2ipa-0110                    |
 | 0.11.2                 	| 19-04-19       	 |		https://bit.ly/so2ipa-0112                    |
-| 0.11.2p2               	| 19-04-19       	 |		N/A                    |
 | 0.11.3                	| 19-04-19       	 |		https://bit.ly/so2ipa-0113                    |
 | 0.11.4                	| 19-04-19       	 |		N/A                    |
 | 0.12.1                 	| 19-04-20       	 |		https://bit.ly/so2ipa-0121                    |
