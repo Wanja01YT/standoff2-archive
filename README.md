@@ -153,4 +153,4 @@ Use [Sideloadly](https://sideloadly.io/) to sideload the .ipa file. You have to 
 | 0.19.0                	| 19-04-18       	 |		https://bit.ly/so2ipa-0190                    |
 | 0.19.1                	| 07-05-22      	 |		https://bit.ly/so2ipa-0191                    |
 | 0.19.2                	| 07-05-22      	 |		https://bit.ly/so2ipa-0192                    |
-| 0.19.4                	| 21-07-18       	 |		https://bit.ly/so2ipa-0194                    |
+| 0.19.4                	| 21-07-18       	 |		https://bit.ly/so2ipa-0914                    |
