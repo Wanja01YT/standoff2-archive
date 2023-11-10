@@ -1,5 +1,5 @@
 # Standoff 2 Build Archive
-An archive of almost all builds of Standoff 2.
+An archive of almost all builds of Standoff 2 from 2017 to 2023.
 
 ## How to install Standoff 2
 ### Android
