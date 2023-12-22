@@ -1575,6 +1575,30 @@ Install the [APKPure](https://apkpure.com) app, and install the .xapk file using
   <tr>
     <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.26.0">Archive.org</a></td>
   </tr>
+
+  <!--0.26.1-->
+  <tr>
+    <td align="center" rowspan="2">3141</td>
+    <td align="center" rowspan="2">0.26.1</td>
+    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2">2023-11-26</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/gp-standoff-2-0.26.1/%5BGP%5D%20Standoff%202%20%280.26.1%29.xapk">XAPK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.26.1">Archive.org</a></td>
+  </tr>
+
+  <!--0.27.0-->
+  <tr>
+    <td align="center" rowspan="2">3180</td>
+    <td align="center" rowspan="2">0.27.0</td>
+    <td align="center" rowspan="2">New Year 2024<br/>(Frosty Chaos)</td>
+    <td align="center" rowspan="2">2023-12-21</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/gp-standoff-2-0.27.0/%5BGP%5D%20Standoff%202%20%280.27.0%29.xapk">XAPK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.27.0">Archive.org</a></td>
+  </tr>
 </tbody>
 
 <table class="so2">
