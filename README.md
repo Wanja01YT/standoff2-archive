@@ -664,6 +664,19 @@ Install the [APKPure](https://apkpure.com) app, and install the .xapk file using
     <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.11.0">Archive.org</a></td>
   </tr>
 
+      <!--0.11.0-->
+  <tr>
+    <td align="center" rowspan="2">101</td>
+    <td align="center" rowspan="2">0.11.0</td>
+    <td align="center" rowspan="2">Competitive Update</td>
+    <td align="center" rowspan="2">2019-10-24</td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.11.0-101/%5BGP%5D%20Standoff%202%20%280.11.0%29.apk">APK</a></td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.11.0-101/main.101.com.axlebolt.standoff2.obb">OBB</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.11.0-101">Archive.org</a></td>
+  </tr>
+  
   <!--0.11.1-->
   <tr>
     <td align="center" rowspan="2">102</td>
