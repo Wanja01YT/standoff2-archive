@@ -664,7 +664,7 @@ Install the [APKPure](https://apkpure.com) app, and install the .xapk file using
     <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.11.0">Archive.org</a></td>
   </tr>
 
-      <!--0.11.0-->
+<!--0.11.0-->
   <tr>
     <td align="center" rowspan="2">101</td>
     <td align="center" rowspan="2">0.11.0</td>
