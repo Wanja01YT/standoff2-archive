@@ -1113,7 +1113,7 @@ Starting with version 0.29.0, separate builds are available for ARM devices: **a
     <td align="center" rowspan="2"></td>
     <td align="center" rowspan="2">2020-01-03</td>
    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.12.1/%5BGP%5D%20Standoff%202%20%280.12.1%29.apk">APK</a></td>
-    <td align="center"><a href="hthttps://archive.org/download/gp-standoff-2-0.12.1/main.131.com.axlebolt.standoff2.obb">OBB</a></td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.12.1/main.131.com.axlebolt.standoff2.obb">OBB</a></td>
   </tr>
   <tr>
     <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.12.1">Archive.org</a></td>
