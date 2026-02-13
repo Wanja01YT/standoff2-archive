@@ -3073,6 +3073,23 @@ Starting with version 0.29.0, separate builds are available for ARM devices: **a
     <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.37.0">Archive.org</a></td>
   </tr>
 
+  <!--0.37.1-->
+  <tr>
+    <td align="center" rowspan="3">3730</td>
+    <td align="center" rowspan="3">0.37.1</td>
+    <td align="center" rowspan="3"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="3">Lunar New Year 2026<br/>(Year of the Horse)</td>
+    <td align="center" rowspan="3">2026-02-13</td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.37.1/%5BGP%5D%20Standoff%202%20%280.37.1%29.zip/%5BGP%5D%20Standoff%202%20%280.37.1%29%20%2832-bit%29.apk">32bit</a></td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.37.1/%5BGP%5D%20Standoff%202%20%280.37.1%29.zip/%5BGP%5D%20Standoff%202%20%280.37.1%29%20%2864-bit%29.apk">64bit</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/download/gp-standoff-2-0.37.1/main.3730.com.axlebolt.standoff2.obb">OBB</a></td>
+  </tr>
+    <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.37.1">Archive.org</a></td>
+  </tr>
+
 </tbody>
 </table>
 
@@ -4946,6 +4963,20 @@ To install any old version, place the OBB file in `Android/obb/com.axlebolt.stan
     <td align="center" colspan="2"><a href="https://archive.org/details/ap-standoff-2-0.37.0">Archive.org</a></td>
   </tr>
 
+   <!--0.37.1-->
+  <tr>
+    <td align="center" rowspan="2">3730</td>
+    <td align="center" rowspan="2">0.37.1</td>
+    <td align="center" rowspan="2">882311109</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Lunar New Year 2026<br/>(Year of the Horse)</td>
+    <td align="center" rowspan="2">2026-02-13</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/ap-standoff-2-0.37.1/%5BAP%5D%20Standoff%202%20%280.37.1%29.ipa">IPA</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/ap-standoff-2-0.37.1">Archive.org</a></td>
+  </tr>
+
 </tbody>
 </table>
 
@@ -6241,6 +6272,19 @@ To install any old version, simply install the APK file. Opening the app may req
   </tr>
   <tr>
     <td align="center" colspan="2"><a href="https://archive.org/details/hw-standoff-2-0.37.0">Archive.org</a></td>
+  </tr>
+
+   <!--0.37.1-->
+  <tr>
+    <td align="center" rowspan="2">3730</td>
+    <td align="center" rowspan="2">0.37.1</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Lunar New Year 2026<br/>(Year of the Horse)</td>
+    <td align="center" rowspan="2">2026-02-13</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/hw-standoff-2-0.37.1/%5BHW%5D%20Standoff%202%20%280.37.1%29.zip/%5BHW%5D%20Standoff%202%20%280.37.1%29.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/hw-standoff-2-0.37.1">Archive.org</a></td>
   </tr>
 
 </tbody>
