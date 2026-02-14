@@ -6522,7 +6522,7 @@ To install any old version, simply install the APK file. Opening the app may req
     <td align="center" rowspan="2">3730</td>
     <td align="center" rowspan="2">0.37.1</td>
     <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
-    <td align="center" rowspan="2">New Year 2026<br/>(Winter Tale)</td>
+    <td align="center" rowspan="2">Lunar New Year 2026<br/>(Year of the Horse)</td>
     <td align="center" rowspan="2">2026-02-14</td>
     <td align="center" colspan="2"><a href="https://archive.org/download/mi-standoff-2-0.37.1/%5BMI%5D%20Standoff%202%20%280.37.1%29.zip/%5BMI%5D%20Standoff%202%20%280.37.1%29.apk">APK</a></td>
   </tr>
