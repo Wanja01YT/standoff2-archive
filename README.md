@@ -559,7 +559,7 @@ Starting with version 0.29.0, separate builds are available for ARM devices: **a
     <td align="center" colspan="2"><a href="https://archive.org/download/standoff-2-0-9-0-beta/app2D.apk">APK</a></td>
   </tr>
   <tr>
-    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0-9-0-beta">Archive.org</a></td>
+    <td align="center" colspan="2"><a href="https://archive.org/details/standoff-2-0-9-0-beta">Archive.org</a></td>
   </tr>
 
   <!--0.9.0-->
