@@ -552,7 +552,7 @@ Starting with version 0.29.0, separate builds are available for ARM devices: **a
 <!--0.9.0-BETA-->
   <tr>
     <td align="center" rowspan="2">39</td>
-    <td align="center" rowspan="2">0.8.10</td>
+    <td align="center" rowspan="2">0.8.10 (0.9.0)</td>
     <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
     <td align="center" rowspan="2">Furious Beta Test</td>
     <td align="center" rowspan="2">2018-06-19</td>
