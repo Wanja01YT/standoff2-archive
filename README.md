@@ -9,9 +9,6 @@ A collection dedicated to archiving all versions of Standoff 2.
 <a href="https://archive.org/details/standoff-2-archive">Visit us on the Internet Archive!</a>
 <br/><br/>
 
-> [!TIP]
-> If you have access to a version that is not on this list, feel free to submit them via the [Issues](https://github.com/Wanja01YT/standoff2-archive/issues) page.
-
 ## Table of Contents
 
 <!--ts-->
@@ -42,13 +39,13 @@ A collection dedicated to archiving all versions of Standoff 2.
 <!--Partially-Found-->
   <tr>
     <td align="center"><span style="color: #C49E2F;">Partially<br/>Found</span></td>
-    <td align="left">Some files related to this build version have been found. If you come across any new complete files related to it, feel free to create a new <a href="https://github.com/Wanja01YT/standoff2-archive/issues">Issue</a>.</td>
+    <td align="left">Some files related to this build version have been found. If the recovered parts are significant for use, you may download it.</td>
   </tr>
 
   <!--Lost-->
   <tr>
     <td align="center"><span style="color: #DC624D;">Lost</span></td>
-    <td align="left">This build version is lost. If you come across any files related to it, feel free to create a new <a href="https://github.com/Wanja01YT/standoff2-archive/issues">Issue</a>.</td>
+    <td align="left">This build version is lost.</td>
   </tr>
 
 </tbody>
