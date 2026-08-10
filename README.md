@@ -6872,7 +6872,7 @@ To install any old version, simply install the APK file. Opening the app may req
   </tr>
   <tr>
     <td align="center" colspan="2"><a href="https://archive.org/details/mi-standoff-2-0.39.0">Archive.org</a></td>
-  </tr>´
+  </tr>
       
   <!--0.39.1-->
   <tr>
