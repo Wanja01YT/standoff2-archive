@@ -55,7 +55,7 @@ A collection dedicated to archiving all versions of Standoff 2.
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Play_2022_icon.svg" width="20" height="20" alt="Download on Google Play" style="vertical-align: -3.5px;"> | Google Play
 
-To install any old version, place the OBB file in `Android/obb/com.axlebolt.standoff2` and then install the corresponding APK file. Keep in mind that the servers have been discontinued and most old versions won't work out-of-the-box.
+To install any old version, place the OBB file in `Android/obb/com.axlebolt.standoff2` and then install the corresponding APK file. Keep in mind that the servers have been discontinued and most old versions won't work.
 
 Starting with version 0.29.0, separate builds are available for ARM devices: **arm64-v8a (64-bit)** and **armeabi-v7a (32-bit)**. The only difference between them is the package code, **10xxxx** for the armeabi-v7a version and **20xxxx** for the arm64-v8a version. The OBB cache file remains the same but must be renamed appropriately to match the corresponding build.
 
@@ -3087,12 +3087,131 @@ Starting with version 0.29.0, separate builds are available for ARM devices: **a
     <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.37.1">Archive.org</a></td>
   </tr>
 
+  <!--0.38.0-->
+  <tr>
+    <td align="center" rowspan="3">3783</td>
+    <td align="center" rowspan="3">0.38.0</td>
+    <td align="center" rowspan="3"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="3">Season 11<br/>(Breakout)</td>
+    <td align="center" rowspan="3">2026-04-07</td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.38.0/%5BGP%5D%20Standoff%202%20%280.38.0%29.zip/%5BGP%5D%20Standoff%202%20%280.38.0%29%20%2832-bit%29.apk">32bit</a></td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.38.0/%5BGP%5D%20Standoff%202%20%280.38.0%29.zip/%5BGP%5D%20Standoff%202%20%280.38.0%29%20%2864-bit%29.apk">64bit</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/download/gp-standoff-2-0.38.0/main.3783.com.axlebolt.standoff2.obb">OBB</a></td>
+  </tr>
+    <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.38.0">Archive.org</a></td>
+  </tr>
+
+  <!--0.38.1-->
+  <tr>
+    <td align="center" rowspan="3">3809</td>
+    <td align="center" rowspan="3">0.38.1</td>
+    <td align="center" rowspan="3"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="3">9 Years Celebration</td>
+    <td align="center" rowspan="3">2026-04-28</td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.38.1/%5BGP%5D%20Standoff%202%20%280.38.1%29.zip/%5BGP%5D%20Standoff%202%20%280.38.1%29%20%2832-bit%29.apk">32bit</a></td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.38.1/%5BGP%5D%20Standoff%202%20%280.38.1%29.zip/%5BGP%5D%20Standoff%202%20%280.38.1%29%20%2864-bit%29.apk">64bit</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/download/gp-standoff-2-0.38.1/main.3809.com.axlebolt.standoff2.obb">OBB</a></td>
+  </tr>
+    <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.38.1">Archive.org</a></td>
+  </tr>
+
+  <!--0.38.2-->
+  <tr>
+    <td align="center" rowspan="3">3812</td>
+    <td align="center" rowspan="3">0.38.2</td>
+    <td align="center" rowspan="3"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="3"></td>
+    <td align="center" rowspan="3">2026-05-06</td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.38.2/%5BGP%5D%20Standoff%202%20%280.38.2%29.zip/%5BGP%5D%20Standoff%202%20%280.38.2%29%20%2832-bit%29.apk">32bit</a></td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.38.2/%5BGP%5D%20Standoff%202%20%280.38.2%29.zip/%5BGP%5D%20Standoff%202%20%280.38.2%29%20%2864-bit%29.apk">64bit</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/download/gp-standoff-2-0.38.2/main.3812.com.axlebolt.standoff2.obb">OBB</a></td>
+  </tr>
+    <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.38.2">Archive.org</a></td>
+  </tr>
+
+  <!--0.39.0-->
+  <tr>
+    <td align="center" rowspan="3">3864</td>
+    <td align="center" rowspan="3">0.39.0</td>
+    <td align="center" rowspan="3"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="3">Summer 2026<br/>(Beholder: Champions)</td>
+    <td align="center" rowspan="3">2026-06-16</td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.39.0/%5BGP%5D%20Standoff%202%20%280.39.0%29.zip/%5BGP%5D%20Standoff%202%20%280.39.0%29%20%2832-bit%29.apk">32bit</a></td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.39.0/%5BGP%5D%20Standoff%202%20%280.39.0%29.zip/%5BGP%5D%20Standoff%202%20%280.39.0%29%20%2864-bit%29.apk">64bit</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/download/gp-standoff-2-0.39.0/main.3864.com.axlebolt.standoff2.obb">OBB</a></td>
+  </tr>
+    <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.39.0">Archive.org</a></td>
+  </tr>
+
+  <!--0.39.1-->
+  <tr>
+    <td align="center" rowspan="3">3870</td>
+    <td align="center" rowspan="3">0.39.1</td>
+    <td align="center" rowspan="3"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="3"></td>
+    <td align="center" rowspan="3">2026-06-19</td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.39.1/%5BGP%5D%20Standoff%202%20%280.39.1%29.zip/%5BGP%5D%20Standoff%202%20%280.39.1%29%20%2832-bit%29.apk">32bit</a></td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.39.1/%5BGP%5D%20Standoff%202%20%280.39.1%29.zip/%5BGP%5D%20Standoff%202%20%280.39.1%29%20%2864-bit%29.apk">64bit</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/download/gp-standoff-2-0.39.1/main.3870.com.axlebolt.standoff2.obb">OBB</a></td>
+  </tr>
+    <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.39.1">Archive.org</a></td>
+  </tr>
+
+  <!--0.39.2-->
+  <tr>
+    <td align="center" rowspan="3">3897</td>
+    <td align="center" rowspan="3">0.39.2</td>
+    <td align="center" rowspan="3"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="3">Jumble Rumble Major</td>
+    <td align="center" rowspan="3">2026-07-10</td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.39.2/%5BGP%5D%20Standoff%202%20%280.39.2%29.zip/%5BGP%5D%20Standoff%202%20%280.39.2%29%20%2832-bit%29.apk">32bit</a></td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.39.2/%5BGP%5D%20Standoff%202%20%280.39.2%29.zip/%5BGP%5D%20Standoff%202%20%280.39.2%29%20%2864-bit%29.apk">64bit</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/download/gp-standoff-2-0.39.2/main.3897.com.axlebolt.standoff2.obb">OBB</a></td>
+  </tr>
+    <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.39.2">Archive.org</a></td>
+  </tr>
+
+  <!--0.39.3-->
+  <tr>
+    <td align="center" rowspan="3">3908</td>
+    <td align="center" rowspan="3">0.39.3</td>
+    <td align="center" rowspan="3"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="3">Remaster Open Beta</td>
+    <td align="center" rowspan="3">2026-07-22</td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.39.3/%5BGP%5D%20Standoff%202%20%280.39.3%29.zip/%5BGP%5D%20Standoff%202%20%280.39.3%29%20%2832-bit%29.apk">32bit</a></td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.39.3/%5BGP%5D%20Standoff%202%20%280.39.3%29.zip/%5BGP%5D%20Standoff%202%20%280.39.3%29%20%2864-bit%29.apk">64bit</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/download/gp-standoff-2-0.39.3/main.3908.com.axlebolt.standoff2.obb">OBB</a></td>
+  </tr>
+    <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.39.3">Archive.org</a></td>
+  </tr>
+
 </tbody>
 </table>
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg" width="20" height="20" alt="Download on the App Store" style="vertical-align: -3.5px;"> | App Store
 
-To install any old version, place the OBB file in `Android/obb/com.axlebolt.standoff2` and then install the corresponding APK file. Keep in mind that the servers have been discontinued and most old versions won't work out-of-the-box.
+To install any old version, place the OBB file in `Android/obb/com.axlebolt.standoff2` and then install the corresponding APK file. Keep in mind that the servers have been discontinued and most old versions won't work.
 
 <a href="https://apps.apple.com/us/app/standoff-2/id1359706682">
 <img src="https://raw.githubusercontent.com/Wanja01YT/standoff2-archive/refs/heads/main/images/svg/AppStore.svg" width="125" height="45" alt="Download on the App Store">
@@ -4973,13 +5092,111 @@ To install any old version, place the OBB file in `Android/obb/com.axlebolt.stan
   <tr>
     <td align="center" colspan="2"><a href="https://archive.org/details/ap-standoff-2-0.37.1">Archive.org</a></td>
   </tr>
+  
+   <!--0.38.0-->
+  <tr>
+    <td align="center" rowspan="2">3783</td>
+    <td align="center" rowspan="2">0.38.0</td>
+    <td align="center" rowspan="2">883213887</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Season 11<br/>(Breakout)</td>
+    <td align="center" rowspan="2">2026-04-07</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/ap-standoff-2-0.38.0/%5BAP%5D%20Standoff%202%20%280.38.0%29.ipa">IPA</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/ap-standoff-2-0.38.0">Archive.org</a></td>
+  </tr>
+  
+   <!--0.38.1-->
+  <tr>
+    <td align="center" rowspan="2">3809</td>
+    <td align="center" rowspan="2">0.38.1</td>
+    <td align="center" rowspan="2">884538441</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">9 Years Celebration</td>
+    <td align="center" rowspan="2">2026-04-28</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/ap-standoff-2-0.38.1/%5BAP%5D%20Standoff%202%20%280.38.1%29.ipa">IPA</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/ap-standoff-2-0.38.1">Archive.org</a></td>
+  </tr>
+    
+   <!--0.38.2-->
+  <tr>
+    <td align="center" rowspan="2">3812</td>
+    <td align="center" rowspan="2">0.38.2</td>
+    <td align="center" rowspan="2">885297335</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2">2026-05-06</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/ap-standoff-2-0.38.2/%5BAP%5D%20Standoff%202%20%280.38.2%29.ipa">IPA</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/ap-standoff-2-0.38.2">Archive.org</a></td>
+  </tr>
+    
+   <!--0.39.0-->
+  <tr>
+    <td align="center" rowspan="2">3863</td>
+    <td align="center" rowspan="2">0.39.0</td>
+    <td align="center" rowspan="2">886785437</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Summer 2026<br/>(Beholder: Champions)</td>
+    <td align="center" rowspan="2">2026-06-16</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/ap-standoff-2-0.39.0/%5BAP%5D%20Standoff%202%20%280.39.0%29.ipa">IPA</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/ap-standoff-2-0.39.0">Archive.org</a></td>
+  </tr>
+      
+   <!--0.39.1-->
+  <tr>
+    <td align="center" rowspan="2">3870</td>
+    <td align="center" rowspan="2">0.39.1</td>
+    <td align="center" rowspan="2">887155870</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2">2026-06-24</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/ap-standoff-2-0.39.1/%5BAP%5D%20Standoff%202%20%280.39.1%29.ipa">IPA</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/ap-standoff-2-0.39.1">Archive.org</a></td>
+  </tr>
+      
+   <!--0.39.2-->
+  <tr>
+    <td align="center" rowspan="2">3897</td>
+    <td align="center" rowspan="2">0.39.2</td>
+    <td align="center" rowspan="2">887631717</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Jumble Rumble Major</td>
+    <td align="center" rowspan="2">2026-07-10</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/ap-standoff-2-0.39.2/%5BAP%5D%20Standoff%202%20%280.39.2%29.ipa">IPA</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/ap-standoff-2-0.39.2">Archive.org</a></td>
+  </tr>
+      
+   <!--0.39.3-->
+  <tr>
+    <td align="center" rowspan="2">3908</td>
+    <td align="center" rowspan="2">0.39.3</td>
+    <td align="center" rowspan="2">-</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Remaster Open Beta</td>
+    <td align="center" rowspan="2">2026-07-22</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/ap-standoff-2-0.39.3/%5BAP%5D%20Standoff%202%20%280.39.3%29.ipa">IPA</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/ap-standoff-2-0.39.3">Archive.org</a></td>
+  </tr>
 
 </tbody>
 </table>
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Huawei_AppGallery.svg" width="20" height="20" alt="Download on Huawei AppGallery" style="vertical-align: -3.5px;"> | Huawei AppGallery
 
-To install any old version, simply install the APK file. Opening the app may require [Huawei AppGallery](https://appgallery.huawei.com/app/C27162) to be installed. Keep in mind that the servers have been discontinued and most old versions won't work out-of-the-box.
+To install any old version, simply install the APK file. Opening the app may require [Huawei AppGallery](https://appgallery.huawei.com/app/C27162) to be installed. Keep in mind that the servers have been discontinued and most old versions won't work.
 
 <a href="https://appgallery.huawei.com/app/C102543465">
 <img src="https://raw.githubusercontent.com/Wanja01YT/standoff2-archive/refs/heads/main/images/svg/AppGallery.svg" width="125" height="45" alt="Download on AppGallery">
@@ -6284,12 +6501,90 @@ To install any old version, simply install the APK file. Opening the app may req
     <td align="center" colspan="2"><a href="https://archive.org/details/hw-standoff-2-0.37.1">Archive.org</a></td>
   </tr>
 
+   <!--0.38.0-->
+  <tr>
+    <td align="center" rowspan="2">3783</td>
+    <td align="center" rowspan="2">0.38.0</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Season 11<br/>(Breakout)</td>
+    <td align="center" rowspan="2">2026-04-07</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/hw-standoff-2-0.38.0/%5BHW%5D%20Standoff%202%20%280.38.0%29.zip/%5BHW%5D%20Standoff%202%20%280.38.0%29.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/hw-standoff-2-0.38.0">Archive.org</a></td>
+  </tr>
+  
+   <!--0.38.1-->
+  <tr>
+    <td align="center" rowspan="2">3809</td>
+    <td align="center" rowspan="2">0.38.1</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">9 Years Celebration</td>
+    <td align="center" rowspan="2">2026-04-28</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/hw-standoff-2-0.38.1/%5BHW%5D%20Standoff%202%20%280.38.1%29.zip/%5BHW%5D%20Standoff%202%20%280.38.1%29.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/hw-standoff-2-0.38.1">Archive.org</a></td>
+  </tr>
+  
+   <!--0.38.2-->
+  <tr>
+    <td align="center" rowspan="2">3812</td>
+    <td align="center" rowspan="2">0.38.2</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2">2026-05-06</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/hw-standoff-2-0.38.2/%5BHW%5D%20Standoff%202%20%280.38.2%29.zip/%5BHW%5D%20Standoff%202%20%280.38.2%29.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/hw-standoff-2-0.38.2">Archive.org</a></td>
+  </tr>
+  
+   <!--0.39.0-->
+  <tr>
+    <td align="center" rowspan="2">3864</td>
+    <td align="center" rowspan="2">0.39.0</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Summer 2026<br/>(Beholder: Champions)</td>
+    <td align="center" rowspan="2">2026-06-16</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/hw-standoff-2-0.39.0/%5BHW%5D%20Standoff%202%20%280.39.0%29.zip/%5BHW%5D%20Standoff%202%20%280.39.0%29.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/hw-standoff-2-0.39.0">Archive.org</a></td>
+  </tr>
+    
+   <!--0.39.1-->
+  <tr>
+    <td align="center" rowspan="2">3870</td>
+    <td align="center" rowspan="2">0.39.1</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2">2026-06-19</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/hw-standoff-2-0.39.1/%5BHW%5D%20Standoff%202%20%280.39.1%29.zip/%5BHW%5D%20Standoff%202%20%280.39.1%29.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/hw-standoff-2-0.39.1">Archive.org</a></td>
+  </tr>
+      
+   <!--0.39.2-->
+  <tr>
+    <td align="center" rowspan="2">3897</td>
+    <td align="center" rowspan="2">0.39.2</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Jumble Rumble Major</td>
+    <td align="center" rowspan="2">2026-07-11</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/hw-standoff-2-0.39.2/%5BHW%5D%20Standoff%202%20%280.39.2%29.zip/%5BHW%5D%20Standoff%202%20%280.39.2%29.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/hw-standoff-2-0.39.2">Archive.org</a></td>
+  </tr>
+
 </tbody>
 </table>
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Xiaomi_GetApps_Logo.jpg" width="20" height="20" alt="Download on Xiaomi GetApps" style="vertical-align: -3.5px;"> | Xiaomi GetApps
 
-To install any old version, simply install the APK file. Opening the app may require [Xiaomi GetApps](https://global.app.mi.com/?lo=ES&la=en) to be installed. Keep in mind that the servers have been discontinued and most old versions won't work out-of-the-box.
+To install any old version, simply install the APK file. Opening the app may require [Xiaomi GetApps](https://global.app.mi.com/?lo=ES&la=en) to be installed. Keep in mind that the servers have been discontinued and most old versions won't work.
 
 <a href="https://global.app.mi.com/details?id=com.axlebolt.standoff2.xiaomi">
 <img src="https://raw.githubusercontent.com/Wanja01YT/standoff2-archive/refs/heads/main/images/svg/GetApps.svg" width="125" height="45" alt="Download on GetApps">
@@ -6525,6 +6820,84 @@ To install any old version, simply install the APK file. Opening the app may req
   </tr>
   <tr>
     <td align="center" colspan="2"><a href="https://archive.org/details/mi-standoff-2-0.37.1">Archive.org</a></td>
+  </tr>
+  
+  <!--0.38.0-->
+  <tr>
+    <td align="center" rowspan="2">3783</td>
+    <td align="center" rowspan="2">0.38.0</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Season 11<br/>(Breakout)</td>
+    <td align="center" rowspan="2">2026-04-07</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/mi-standoff-2-0.38.0/%5BMI%5D%20Standoff%202%20%280.38.0%29.zip/%5BMI%5D%20Standoff%202%20%280.38.0%29.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/mi-standoff-2-0.38.0">Archive.org</a></td>
+  </tr>
+  
+  <!--0.38.1-->
+  <tr>
+    <td align="center" rowspan="2">3809</td>
+    <td align="center" rowspan="2">0.38.1</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">9 Years Celebration</td>
+    <td align="center" rowspan="2">2026-04-28</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/mi-standoff-2-0.38.1/%5BMI%5D%20Standoff%202%20%280.38.1%29.zip/%5BMI%5D%20Standoff%202%20%280.38.1%29.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/mi-standoff-2-0.38.1">Archive.org</a></td>
+  </tr>
+  
+  <!--0.38.2-->
+  <tr>
+    <td align="center" rowspan="2">3812</td>
+    <td align="center" rowspan="2">0.38.2</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2">2026-05-06</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/mi-standoff-2-0.38.2/%5BMI%5D%20Standoff%202%20%280.38.2%29.zip/%5BMI%5D%20Standoff%202%20%280.38.2%29.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/mi-standoff-2-0.38.2">Archive.org</a></td>
+  </tr>
+    
+  <!--0.39.0-->
+  <tr>
+    <td align="center" rowspan="2">3864</td>
+    <td align="center" rowspan="2">0.39.0</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Summer 2026<br/>(Beholder: Champions)</td>
+    <td align="center" rowspan="2">2026-06-17</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/mi-standoff-2-0.39.0/%5BMI%5D%20Standoff%202%20%280.39.0%29.zip/%5BMI%5D%20Standoff%202%20%280.39.0%29.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/mi-standoff-2-0.39.0">Archive.org</a></td>
+  </tr>´
+      
+  <!--0.39.1-->
+  <tr>
+    <td align="center" rowspan="2">3870</td>
+    <td align="center" rowspan="2">0.39.1</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2">2026-06-22</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/mi-standoff-2-0.39.1/%5BMI%5D%20Standoff%202%20%280.39.1%29.zip/%5BMI%5D%20Standoff%202%20%280.39.1%29.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/mi-standoff-2-0.39.1">Archive.org</a></td>
+  </tr>
+
+  <!--0.39.2-->
+  <tr>
+    <td align="center" rowspan="2">3897</td>
+    <td align="center" rowspan="2">0.39.2</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Jumble Rumble Major</td>
+    <td align="center" rowspan="2">2026-07-10</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/mi-standoff-2-0.39.2/%5BMI%5D%20Standoff%202%20%280.39.2%29.zip/%5BMI%5D%20Standoff%202%20%280.39.2%29.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/mi-standoff-2-0.39.2">Archive.org</a></td>
   </tr>
   
 </tbody>
