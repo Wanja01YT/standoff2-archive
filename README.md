@@ -3206,6 +3206,23 @@ Starting with version 0.29.0, separate builds are available for ARM devices: **a
     <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.39.3">Archive.org</a></td>
   </tr>
 
+   <!--0.39.4-->
+  <tr>
+    <td align="center" rowspan="3">3928</td>
+    <td align="center" rowspan="3">0.39.4</td>
+    <td align="center" rowspan="3"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="3">Remaster Open Beta</td>
+    <td align="center" rowspan="3">2026-09-07</td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.39.4/%5BGP%5D%20Standoff%202%20%280.39.4%29.zip/%5BGP%5D%20Standoff%202%20%280.39.4%29%20%2832-bit%29.apk">32bit</a></td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.39.4/%5BGP%5D%20Standoff%202%20%280.39.4%29.zip/%5BGP%5D%20Standoff%202%20%280.39.4%29%20%2864-bit%29.apk">64bit</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/download/gp-standoff-2-0.39.4/main.3928.com.axlebolt.standoff2.obb">OBB</a></td>
+  </tr>
+    <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.39.4">Archive.org</a></td>
+  </tr>
+
 </tbody>
 </table>
 
@@ -5189,6 +5206,20 @@ To install any old version, place the OBB file in `Android/obb/com.axlebolt.stan
   </tr>
   <tr>
     <td align="center" colspan="2"><a href="https://archive.org/details/ap-standoff-2-0.39.3">Archive.org</a></td>
+  </tr>
+
+  <!--0.39.4-->
+  <tr>
+    <td align="center" rowspan="2">3928</td>
+    <td align="center" rowspan="2">0.39.4</td>
+    <td align="center" rowspan="2">-</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Remaster Open Beta</td>
+    <td align="center" rowspan="2">2026-09-07</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/ap-standoff-2-0.39.4/%5BAP%5D%20Standoff%202%20%280.39.4%29.ipa">IPA</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/ap-standoff-2-0.39.4">Archive.org</a></td>
   </tr>
 
 </tbody>
