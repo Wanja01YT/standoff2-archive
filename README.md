@@ -3223,6 +3223,23 @@ Starting with version 0.29.0, separate builds are available for ARM devices: **a
     <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.39.4">Archive.org</a></td>
   </tr>
 
+     <!--1.0.0-->
+  <tr>
+    <td align="center" rowspan="3">3964</td>
+    <td align="center" rowspan="3">1.0.0</td>
+    <td align="center" rowspan="3"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="3">Season 12<br/>(Osiris)</td>
+    <td align="center" rowspan="3">2026-09-28</td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-1.0.0/%5BGP%5D%20Standoff%202%20%281.0.0%29.zip/%5BGP%5D%20Standoff%202%20%281.0.0%29%20%2832-bit%29.apk">32bit</a></td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-1.0.0/%5BGP%5D%20Standoff%202%20%281.0.0%29.zip/%5BGP%5D%20Standoff%202%20%281.0.0%29%20%2864-bit%29.apk">64bit</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/download/gp-standoff-2-1.0.0/main.3964.com.axlebolt.standoff2.obb">OBB</a></td>
+  </tr>
+    <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-1.0.0">Archive.org</a></td>
+  </tr>
+
 </tbody>
 </table>
 
