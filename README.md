@@ -3223,7 +3223,7 @@ Starting with version 0.29.0, separate builds are available for ARM devices: **a
     <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.39.4">Archive.org</a></td>
   </tr>
 
-     <!--1.0.0-->
+  <!--1.0.0-->
   <tr>
     <td align="center" rowspan="3">3964</td>
     <td align="center" rowspan="3">1.0.0</td>
@@ -5237,6 +5237,20 @@ To install any old version, place the OBB file in `Android/obb/com.axlebolt.stan
   </tr>
   <tr>
     <td align="center" colspan="2"><a href="https://archive.org/details/ap-standoff-2-0.39.4">Archive.org</a></td>
+  </tr>
+
+  <!--1.0.0-->
+  <tr>
+    <td align="center" rowspan="2">3965</td>
+    <td align="center" rowspan="2">1.0.0</td>
+    <td align="center" rowspan="2">890446582</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Season 11<br/>(Osiris)</td>
+    <td align="center" rowspan="2">2026-09-30</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/ap-standoff-2-1.0.0/%5BAP%5D%20Standoff%202%20%281.0.0%29.ipa">IPA</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/ap-standoff-2-1.0.0">Archive.org</a></td>
   </tr>
 
 </tbody>
