@@ -922,6 +922,32 @@ Starting with version 0.29.0, separate builds are available for ARM devices: **a
     <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.10.11-85">Archive.org</a></td>
   </tr>
 
+   <!--0.10.11-BETA-->
+  <tr>
+    <td align="center" rowspan="2">87</td>
+    <td align="center" rowspan="2">0.10.11</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Matchmaking Beta Test</td>
+    <td align="center" rowspan="2">2019-09-05</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/standoff-2-0-11-0-beta/build_matchmaking_test.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0-11-0-beta">Archive.org</a></td>
+  </tr>
+
+  <!--0.10.20-->
+  <tr>
+    <td align="center" rowspan="2">87</td>
+    <td align="center" rowspan="2">0.10.20</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Matchmaking Beta Test</td>
+    <td align="center" rowspan="2">2019-09-11</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/gp-standoff-2-0.10.20/%5BGP%5D%20Standoff%202%20%280.10.20%29.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.10.20">Archive.org</a></td>
+  </tr>
+
   <!--0.10.11f2-->
   <tr>
     <td align="center" rowspan="2">90</td>
@@ -948,32 +974,6 @@ Starting with version 0.29.0, separate builds are available for ARM devices: **a
   </tr>
   <tr>
     <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.10.11">Archive.org</a></td>
-  </tr>
-
-  <!--0.10.11-BETA-->
-  <tr>
-    <td align="center" rowspan="2">87</td>
-    <td align="center" rowspan="2">0.10.11</td>
-    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
-    <td align="center" rowspan="2">Matchmaking Beta Test</td>
-    <td align="center" rowspan="2">2019-09-05</td>
-    <td align="center" colspan="2"><a href="https://archive.org/download/standoff-2-0-11-0-beta/build_matchmaking_test.apk">APK</a></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0-11-0-beta">Archive.org</a></td>
-  </tr>
-
-  <!--0.10.20-->
-  <tr>
-    <td align="center" rowspan="2">87</td>
-    <td align="center" rowspan="2">0.10.20</td>
-    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
-    <td align="center" rowspan="2">Matchmaking Beta Test</td>
-    <td align="center" rowspan="2">2019-09-11</td>
-    <td align="center" colspan="2"><a href="https://archive.org/download/gp-standoff-2-0.10.20/%5BGP%5D%20Standoff%202%20%280.10.20%29.apk">APK</a></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.10.20">Archive.org</a></td>
   </tr>
 
   <!--0.11.0-->
