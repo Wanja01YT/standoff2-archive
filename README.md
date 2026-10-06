@@ -6641,6 +6641,19 @@ To install any old version, simply install the APK file. Opening the app may req
     <td align="center" colspan="2"><a href="https://archive.org/details/hw-standoff-2-0.39.2">Archive.org</a></td>
   </tr>
 
+   <!--1.0.0-->
+  <tr>
+    <td align="center" rowspan="2">3964</td>
+    <td align="center" rowspan="2">1.0.0</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Season 12<br/>(Osiris)</td>
+    <td align="center" rowspan="2">2026-10-01</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/hw-standoff-2-1.0.0/%5BHW%5D%20Standoff%202%20%281.0.0%29.zip/%5BHW%5D%20Standoff%202%20%281.0.0%29.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/hw-standoff-2-1.0.0">Archive.org</a></td>
+  </tr>
+
 </tbody>
 </table>
 
@@ -6960,6 +6973,19 @@ To install any old version, simply install the APK file. Opening the app may req
   </tr>
   <tr>
     <td align="center" colspan="2"><a href="https://archive.org/details/mi-standoff-2-0.39.2">Archive.org</a></td>
+  </tr>
+
+  <!--1.0.0-->
+  <tr>
+    <td align="center" rowspan="2">3964</td>
+    <td align="center" rowspan="2">1.0.0</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2">Season 12<br/>(Osiris)</td>
+    <td align="center" rowspan="2">2026-10-01</td>
+    <td align="center" colspan="2"><a href="https://archive.org/download/mi-standoff-2-1.0.0/%5BMI%5D%20Standoff%202%20%281.0.0%29.zip/%5BMI%5D%20Standoff%202%20%281.0.0%29.apk">APK</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/mi-standoff-2-1.0.0">Archive.org</a></td>
   </tr>
   
 </tbody>
