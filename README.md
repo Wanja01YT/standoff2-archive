@@ -950,26 +950,40 @@ Starting with version 0.29.0, separate builds are available for ARM devices: **a
 
   <!--0.10.11f2-->
   <tr>
-    <td align="center" rowspan="2">90</td>
+    <td align="center" rowspan="2">87</td>
     <td align="center" rowspan="2">0.10.11f2</td>
     <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
     <td align="center" rowspan="2"></td>
-    <td align="center" rowspan="2">2019-04-21</td>
-    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.10.11f2/%5BGP%5D%20Standoff%202%20%280.10.11f2%29.apk">APK</a></td>
+    <td align="center" rowspan="2">2019-04-22</td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.10.11-f2/%5BGP%5D%20Standoff%202%20%280.10.11f2%29.apk">APK</a></td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.10.11-f2/main.87.com.axlebolt.standoff2.obb">OBB</a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.10.11-f2">Archive.org</a></td>
+  </tr>
+
+    <!--0.10.11f3-->
+  <tr>
+    <td align="center" rowspan="2">90</td>
+    <td align="center" rowspan="2">0.10.11f3</td>
+    <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
+    <td align="center" rowspan="2"></td>
+    <td align="center" rowspan="2">2019-04-27</td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.10.11f2/%5BGP%5D%20Standoff%202%20%280.10.11f3%29.apk">APK</a></td>
     <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.10.11f2/main.90.com.axlebolt.standoff2.obb">OBB</a></td>
   </tr>
   <tr>
     <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.10.11f2">Archive.org</a></td>
   </tr>
 
-  <!--0.10.11f3-->
+  <!--0.10.11f4-->
   <tr>
     <td align="center" rowspan="2">92</td>
-    <td align="center" rowspan="2">0.10.11f3</td>
+    <td align="center" rowspan="2">0.10.11f4</td>
     <td align="center" rowspan="2"><span style="color: #6DB747;">Found</span></td>
     <td align="center" rowspan="2"></td>
-    <td align="center" rowspan="2">2019-04-21</td>
-    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.10.11/%5BGP%5D%20Standoff%202%20%280.10.11f3%29.apk">APK</a></td>
+    <td align="center" rowspan="2">2019-04-29</td>
+    <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.10.11/%5BGP%5D%20Standoff%202%20%280.10.11f4%29.apk">APK</a></td>
     <td align="center"><a href="https://archive.org/download/gp-standoff-2-0.10.11/main.92.com.axlebolt.standoff2.obb">OBB</a></td>
   </tr>
   <tr>
