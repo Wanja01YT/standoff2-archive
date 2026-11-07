@@ -962,7 +962,7 @@ Starting with version 0.29.0, separate builds are available for ARM devices: **a
     <td align="center" colspan="2"><a href="https://archive.org/details/gp-standoff-2-0.10.11-f2">Archive.org</a></td>
   </tr>
 
-    <!--0.10.11f3-->
+  <!--0.10.11f3-->
   <tr>
     <td align="center" rowspan="2">90</td>
     <td align="center" rowspan="2">0.10.11f3</td>
